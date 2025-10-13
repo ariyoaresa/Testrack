@@ -1,0 +1,20 @@
+[
+  {
+    "name": "QuickNode Goerli Faucet",
+    "chain": "Ethereum",
+    "network": "Goerli",
+    "token": "ETH",
+    "daily_limit": "0.1 ETH / 12h",
+    "requirements": "Wallet only",
+    "link": "https://faucet.quicknode.com/ethereum/goerli"
+  },
+  {
+    "name": "Polygon Mumbai Faucet",
+    "chain": "Polygon",
+    "network": "Mumbai",
+    "token": "MATIC",
+    "daily_limit": "1 MATIC / 24h",
+    "requirements": "Wallet only",
+    "link": "https://faucet.polygon.technology"
+  }
+]
