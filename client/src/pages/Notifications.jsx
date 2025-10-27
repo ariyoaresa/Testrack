@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import { useAuth } from '../contexts/AuthContext';
-import { apiService } from '../services/apiService';
+import apiService from '../services/apiService';
 import LoadingSpinner from '../components/LoadingSpinner';
 
 const Notifications = () => {

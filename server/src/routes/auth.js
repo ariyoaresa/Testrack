@@ -1,11 +1,11 @@
 import express from 'express';
 import { body } from 'express-validator';
-import { 
-  register, 
-  login, 
-  logout, 
-  refreshToken, 
-  forgotPassword, 
+import {
+  register,
+  login,
+  logout,
+  refreshToken,
+  forgotPassword,
   resetPassword,
   verifyEmail,
   resendVerification,
